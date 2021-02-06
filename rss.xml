@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>CRACKY BOT</title>
+    <link>http://crackybot.xyz</link>
+    <description />
+    <item>
+      <guid>http://crackybot.xyz/</guid>
+      <title>CRACKY BOT</title>
+      <link>http://crackybot.xyz/</link>
+      <description />
+      <pubDate>Wed, 02 Jun 2021 12:00:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>http://crackybot.xyz/premium</guid>
+      <title>Cracky Premium</title>
+      <link>http://crackybot.xyz/premium</link>
+      <description>Cracky es un bot de moderacion, diversion para discord.</description>
+      <pubDate>Wed, 02 Jun 2021 12:00:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>http://crackybot.xyz/about</guid>
+      <title>Acerca De</title>
+      <link>http://crackybot.xyz/about</link>
+      <description />
+      <pubDate>Wed, 02 Jun 2021 12:00:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>http://crackybot.xyz/index</guid>
+      <title>CRACKY BOT</title>
+      <link>http://crackybot.xyz/index</link>
+      <description />
+      <pubDate>Wed, 02 Jun 2021 12:00:00 Z</pubDate>
+    </item>
+  </channel>
+</rss>
+<!--<guid value="36c184f6-256d-4720-9040-782e11c517ad" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
