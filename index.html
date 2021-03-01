@@ -139,6 +139,14 @@
             </div>
         </div>
     </section>
+                                             
+    <div class="contenedor">
+
+        <div class="item">
+            <span class ="fab fa- servers"></span>
+            <span class="cantidad" id="cont1">0</span>
+            <span class="servidores"><strong>Cantidad De Servidores</strong></span>
+        </div>
                         
                                              
                                   
@@ -220,7 +228,23 @@
         </div>
     </footer>
     
-  
+    <script>
+    
+    let cont1=document.getElementById("cont1")
+let cant1=0,
+tiem=25
+
+let tiempo1= setInterval(() => {
+    cont1.textContent=cant1+=1
+    
+if(cant1===46)
+{
+    clearInterval(tiempo1)
+}
+
+}, 60);
+    
+    </script>
     <script src="assets/js/jquery-2.1.0.min.js"></script>
 
    
